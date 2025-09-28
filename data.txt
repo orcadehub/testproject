@@ -18,3 +18,8 @@ To push the data to github
 3.git push origin -u main
 
 
+To deploy this project 
+-> example platforms ( netlify, vercel, render, railway, heroku ..etc)
+
+
+
